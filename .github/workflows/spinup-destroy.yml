@@ -1,4 +1,4 @@
-name: Configure Azure environment
+name: Configure Azure environments
 
 on:
   pull_request:
